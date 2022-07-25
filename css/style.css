@@ -1,7 +1,11 @@
 .banner-color {
-    background-color: #98FF98;
+    background-color: #ecff98;
 }
 
 .subscribe-color {
-    background-color: #E9AB17;
+    background-color: #ecff98;
+}
+
+.categorise img {
+    width: 100px;
 }
